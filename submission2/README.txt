@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+Bag of Tricks for Efficient Text Classification
 
 Link to the paper:
-https://ieeexplore......
+https://paperswithcode.com/paper/bag-of-tricks-for-efficient-text
 
 Group Number:
 21
