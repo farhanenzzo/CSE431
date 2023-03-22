@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/hr130MNHKDc
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1G6bjhwAaEqXVZlt66QJ-26fTU5tUwL4JRGdetQr-3fk
 
 Paper title:
 Bag of Tricks for Efficient Text Classification
