@@ -15,10 +15,10 @@ Dan Jurafsky & James H. Martin
 2023
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-https://books.google.com/books...
+https://web.stanford.edu/~jurafsky/slp3/24.pdf
 
 Group Number:
 21
