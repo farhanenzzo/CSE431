@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Few-Shot Learning Text Classification in Federated Environments
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
