@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Spelling Correction
+FEW-SHOT TEXT CLASSIFICATION
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
