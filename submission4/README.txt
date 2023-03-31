@@ -11,7 +11,7 @@ Paper title:
 FEW-SHOT TEXT CLASSIFICATION
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/18jb6VfxNnVFhlADSZB0xb0PrUBkLl1gclr6hwnHnt1w/
 
 Paper submission date (to workshop/conference):
 25 October 1999
