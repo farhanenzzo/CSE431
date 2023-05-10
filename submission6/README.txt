@@ -10,7 +10,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Few-Shot Text Classification
+Exploring Few-Shot Learning for Federated Learning in NLP Tasks
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1-MT6ilASoroDfj7XxHXJTs5UQHGCzs17i4pnf5dtJuo/edit?usp=share_link
