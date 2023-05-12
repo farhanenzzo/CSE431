@@ -16,7 +16,11 @@ https://web.stanford.edu/~jurafsky/slp3/
 
 
 Completed youtube video:
-https://youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+https://www.youtube.com/playlist?list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i
+
+https://www.youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX
+
+https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR
 
 
 Active in slack:
