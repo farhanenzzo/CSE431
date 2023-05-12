@@ -24,7 +24,6 @@ https://www.youtube.com/playlist?list=PLsyeobzWxl7oJj5BXYF088REBm-K4c_SR
 
 
 Active in slack:
-https://bucse431spring2023.slack.com/archives/C04KUHG0L7Q/p1676661228285789?thread_ts=1676349972.237049&cid=C04KUHG0L7Qhttp://slack post URL2
 https://bucse431spring2023.slack.com/archives/C04KUHG0L7Q/p1683806986151689
 
 
